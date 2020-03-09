@@ -21,7 +21,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 20300
+              "duration": 44100
             }
           },
           {
@@ -30,7 +30,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 7500
+              "duration": 8600
             }
           }
         ],
@@ -44,7 +44,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 7956325700
+              "duration": 7841430400
             }
           },
           {
@@ -56,7 +56,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1521259600
+              "duration": 1427549900
             }
           },
           {
@@ -64,11 +64,11 @@
             "name": "sou redirecionado para a pagina inicial",
             "line": 9,
             "match": {
-              "location": "features/step_definitions/login_steps.rb:15"
+              "location": "features/step_definitions/login_steps.rb:13"
             },
             "result": {
               "status": "passed",
-              "duration": 22151600
+              "duration": 22461400
             }
           }
         ],
@@ -85,7 +85,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1473482400
+              "duration": 1382514900
             }
           },
           {
@@ -94,7 +94,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 443303500
+              "duration": 200537400
             }
           }
         ]
