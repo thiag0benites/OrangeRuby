@@ -1,6 +1,6 @@
 [
   {
-    "uri": "features/login.feature",
+    "uri": "features/specifications/login.feature",
     "id": "login",
     "keyword": "Funcionalidade",
     "name": "Login",
@@ -21,7 +21,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 44100
+              "duration": 46400
             }
           },
           {
@@ -30,7 +30,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 8600
+              "duration": 8800
             }
           }
         ],
@@ -44,7 +44,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 7841430400
+              "duration": 8108040100
             }
           },
           {
@@ -56,7 +56,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1427549900
+              "duration": 1734348300
             }
           },
           {
@@ -68,7 +68,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 22461400
+              "duration": 11441900
             }
           }
         ],
@@ -85,7 +85,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1382514900
+              "duration": 1171745800
             }
           },
           {
@@ -94,7 +94,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 200537400
+              "duration": 230359200
             }
           }
         ]
