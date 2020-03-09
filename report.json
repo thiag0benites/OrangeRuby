@@ -21,7 +21,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 17500
+              "duration": 20300
             }
           },
           {
@@ -30,7 +30,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 7100
+              "duration": 7500
             }
           }
         ],
@@ -44,7 +44,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 7083341500
+              "duration": 7956325700
             }
           },
           {
@@ -52,11 +52,11 @@
             "name": "preencho os campos login e senha",
             "line": 8,
             "match": {
-              "location": "features/step_definitions/login_steps.rb:5"
+              "location": "features/step_definitions/login_steps.rb:7"
             },
             "result": {
               "status": "passed",
-              "duration": 1699615900
+              "duration": 1521259600
             }
           },
           {
@@ -64,11 +64,11 @@
             "name": "sou redirecionado para a pagina inicial",
             "line": 9,
             "match": {
-              "location": "features/step_definitions/login_steps.rb:11"
+              "location": "features/step_definitions/login_steps.rb:15"
             },
             "result": {
               "status": "passed",
-              "duration": 11533700
+              "duration": 22151600
             }
           }
         ],
@@ -85,7 +85,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1273630000
+              "duration": 1473482400
             }
           },
           {
@@ -94,7 +94,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 335947200
+              "duration": 443303500
             }
           }
         ]

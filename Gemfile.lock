@@ -36,6 +36,7 @@ GEM
     cucumber-tag_expressions (1.1.1)
     cucumber-wire (0.0.1)
     diff-lcs (1.3)
+    ffi (1.12.2-x64-mingw32)
     gherkin (5.1.0)
     io-like (0.3.1)
     json (2.3.0)
@@ -56,6 +57,11 @@ GEM
     selenium-webdriver (3.142.7)
       childprocess (>= 0.5, < 4.0)
       rubyzip (>= 1.2.2)
+    site_prism (3.4.2)
+      addressable (~> 2.5)
+      capybara (~> 3.3)
+      site_prism-all_there (>= 0.3.1, < 1.0)
+    site_prism-all_there (0.3.2)
     xpath (3.2.0)
       nokogiri (~> 1.8)
 
@@ -66,8 +72,10 @@ DEPENDENCIES
   capybara
   chromedriver-helper
   cucumber
+  ffi
   report_builder
   selenium-webdriver
+  site_prism
 
 BUNDLED WITH
    2.1.4

@@ -9,4 +9,5 @@ gem 'selenium-webdriver'
 gem 'chromedriver-helper'
 gem 'report_builder'
 gem 'ffi'
+gem 'site_prism'
 # gem "rails"
